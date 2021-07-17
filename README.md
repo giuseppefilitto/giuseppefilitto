@@ -8,7 +8,10 @@
 
 Feel free to clone projects and don't forget to leave a star!
 
-- 🔭 I’m currently working on [img-segm](https://github.com/giuseppefilitto/img-segm) ![image](https://img.shields.io/github/last-commit/giuseppefilitto/img-segm?style=flat-square) ![image](https://img.shields.io/github/stars/giuseppefilitto/img-segm?style=flat-square)
+
+
+
+- 🔭 I’m currently working on [![code](http://img.shields.io/badge/code-img--segm-brightgreen?style=flat-square&.svg)](https://github.com/giuseppefilitto/img-segm)  ![image](https://img.shields.io/github/last-commit/giuseppefilitto/img-segm?style=flat-square) ![image](https://img.shields.io/github/stars/giuseppefilitto/img-segm?style=flat-square) [![dissertation](http://img.shields.io/badge/dissertation-MSCThesis-informational?style=flat-square&.svg)](https://github.com/giuseppefilitto/MScThesis)
 - :goal_net: 2021 Goal: Graduating in Applied Physics
 - :handshake: I'm looking to collaborate with other contents creators
 - :seedling: Fun facts: Bio-logic
