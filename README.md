@@ -4,7 +4,7 @@
 
 ![Alt Text](https://media.tenor.com/BScnnlUpwmwAAAAC/hi-hello.gif)
 
-Hi, I'm Giuseppe Filitto, a Software Engineer at Capgemini (Italy).
+Hi, I'm Giuseppe Filitto, an AI ENgineer at Unipol Assicurazioni S.P.A. (Italy).
 
 Feel free to clone projects and don't forget to leave a star!
 
